@@ -1,0 +1,8 @@
+{
+  "name": "청춘쉼표 (Youth Pause) - 취준생 멘탈케어 & 심리상담 센터",
+  "description": "취업 준비와 진로 결정을 앞둔 취준생(학부 졸업예정자)들을 위한 1:1 맞춤형 심리상담, 마음 챙김, 불안 조절 및 번아웃 극복 멘탈케어 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
